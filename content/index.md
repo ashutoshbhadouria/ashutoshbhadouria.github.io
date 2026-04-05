@@ -6,6 +6,9 @@ thank you for taking the time to visit this website, and I hope you have an awes
 
 changes these are new edits pls work
 
+here are some changes 
+
+
 ### Jump to...
 * [cv](me,%20myself%20and%20I.md)
 * [research](research-related.md)
