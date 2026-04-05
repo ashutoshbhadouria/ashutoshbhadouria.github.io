@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "index"
             }
           }
         ]
@@ -191,11 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cf68bc638016d68",
+  "active": "ae7360a8fc173e6f",
   "lastOpenFiles": [
-    "content/Battery-Tech.md",
-    "README.md",
+    "content/blog_opinions.md",
+    "content/homepage.md",
+    "content/This is new page from obsidian.md",
+    "content/CODE_OF_CONDUCT.md",
     "content/index.md",
+    "content/research-related.md",
+    "content/me, myself and I.md",
+    "README.md",
     "docs/hosting.md",
     "docs/index.md",
     "docs/configuration.md",
@@ -203,10 +208,6 @@
     "docs/tags/plugin.md",
     "docs/advanced/creating components.md",
     "docs/advanced/index.md",
-    "content/Electrocatalysis.md",
-    "content/This is new page from obsidian.md",
-    "content/homepage.md",
-    "content/Chemical-Engineering.md",
     "tsconfig.json",
     "quartz.layout.ts",
     "quartz.config.ts",
@@ -216,7 +217,6 @@
     "docs",
     "quartz/bootstrap-cli.mjs",
     "quartz",
-    "LICENSE.txt",
-    "content/CODE_OF_CONDUCT.md"
+    "LICENSE.txt"
   ]
 }
