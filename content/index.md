@@ -7,6 +7,8 @@ hello ghello
 
 please update omg
 
+pls pls
+
 
 ### My Notes
 * [Thoughts on Battery Technology](Battery-Tech.md)
