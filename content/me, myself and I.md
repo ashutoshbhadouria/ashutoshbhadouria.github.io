@@ -5,12 +5,12 @@ tags:
   - cv
 ---
 <a href="https://scholar.google.com/citations?hl=en&user=XVv7XOMAAAAJ&view_op=list_works&gmla=AETOMgG4oMFMzJ9jL-SwacDi1fJJkWRQ00xEX4iAke3yZ0ZBV7vHIkyLeme95gtJVwMr35CfRE7AvJmxyf_BKfKV">
-  <img src="Google_Scholar_logo.png" width="63">
+  <img src="Google_Scholar_logo.png" width="43">
 </a>
 
 
 <a href="https://www.linkedin.com/in/ashub/">
-  <img src="linkedin.png" width="63">
+  <img src="linkedin.png" width="43">
 </a>
 
 
