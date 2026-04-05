@@ -2,7 +2,7 @@
 title: research
 draft: false
 tags:
-  - research
+  - "#work"
 ---
 graph TD;
     A[Zn-Ion Cell] -->|Charge| B(Cathode Oxidation);
