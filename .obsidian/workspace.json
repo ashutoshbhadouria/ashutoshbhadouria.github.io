@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homepage.md",
+                "file": "This is new page from obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homepage"
+              "title": "This is new page from obsidian"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homepage.md",
+                "file": "This is new page from obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homepage"
+              "title": "Backlinks for This is new page from obsidian"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homepage.md",
+                "file": "This is new page from obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homepage"
+              "title": "Outgoing links from This is new page from obsidian"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homepage.md",
+                "file": "This is new page from obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of homepage"
+              "title": "Outline of This is new page from obsidian"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "f7dbd02e42702c4d",
   "lastOpenFiles": [
-    "This is new page from obsidian.md",
     "homepage.md",
-    "README.md"
+    "README.md",
+    "This is new page from obsidian.md"
   ]
 }
