@@ -194,15 +194,19 @@
   },
   "active": "d872e18d4eca4866",
   "lastOpenFiles": [
+    "content/Google_Scholar_logo.svg.png",
     "content/research-related.md",
-    "content/simulation.gif",
     "content/me, myself and I.md",
+    "content/CatalysisScheme-en.svg",
+    "content/images/Google_Scholar_logo.svg.png.crdownload",
+    "content/images",
+    "content/New folder",
+    "content/simulation.gif",
     "Pasted image 20260405181539.png",
     "Pasted image 20260405181458.png",
     "Untitled.base",
     "content/index.md",
     "docs/configuration.md",
-    "content/CatalysisScheme-en.svg",
     "content/Unconfirmed 185617.crdownload",
     "content/simulation.gif.crdownload",
     "content/blog_opinions.md",
@@ -222,9 +226,6 @@
     "tsconfig.json",
     "quartz.layout.ts",
     "quartz.config.ts",
-    "package-lock.json",
-    "package.json",
-    "content",
-    "docs"
+    "package-lock.json"
   ]
 }

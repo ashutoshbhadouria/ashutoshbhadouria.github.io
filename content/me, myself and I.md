@@ -4,8 +4,7 @@ draft: false
 tags:
   - cv
 ---
-[![74](Pasted%20image%2020260405181458.png)](https://www.linkedin.com/in/ashub/)   ![62](Pasted%20image%2020260405181539.png)
-
+![[Google_Scholar_logo.svg|63](Google_Scholar_logo.svg.png)(https://scholar.google.com/citations?hl=en&user=XVv7XOMAAAAJ&view_op=list_works&gmla=AETOMgG4oMFMzJ9jL-SwacDi1fJJkWRQ00xEX4iAke3yZ0ZBV7vHIkyLeme95gtJVwMr35CfRE7AvJmxyf_BKfKV)
 
 >[!cite]- education
 > **Purdue University, West Lafayette, IN**  
