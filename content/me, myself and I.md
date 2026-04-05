@@ -79,7 +79,7 @@ tags:
 > - Performed absorbance tests using UV-Vis-NIR spectroscopy to study absorption wavelengths of BiVO₄—a semiconductor actively used as a photoanode in photochemical water electrolysis. Studied the effects of atomic layer deposited TiO₂ on degradation and energy efficiency of BiVO₄. 
 > - TiO₂ was found to play an important role in delaying degradation of the semiconductor under exposure to light and water while maintaining the energy efficiency of the system.
 
-> [!cite]-work experience
+> [!cite]- work experience
 > **Tesla, Fremont, CA**  
 > *Cell Engineering Technician II, July 2021 – July 2022*  
 > *Supervisor: Dr. Justin Bult*
