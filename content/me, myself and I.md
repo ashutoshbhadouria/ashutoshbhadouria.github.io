@@ -4,7 +4,7 @@ draft: false
 tags:
   - cv
 ---
-# [!info]-education
+[!info]-education
 
 **Purdue University, West Lafayette, IN**  
 *Ph.D. Candidate, Aug. 2022 – Present*  
@@ -117,7 +117,7 @@ tags:
 - Director’s Award, The British International School, Istanbul, (2015)
 	- Demonstrated outstanding all-rounder work (academic and extra-curricular) in the academic year
 
-# [!info]-extra-curriculars
+[!info]- extra-curriculars
 
 **Purdue Catalysis Center, West Lafayette, IN**  
 *Website Manager and Archivist, May 2023 - Present*
