@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of index"
             }
           },
           {
@@ -191,13 +192,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae7360a8fc173e6f",
+  "active": "148d7eb67acd131e",
   "lastOpenFiles": [
+    "2026-04-05.md",
+    "content/index.md",
     "content/blog_opinions.md",
     "content/homepage.md",
     "content/This is new page from obsidian.md",
     "content/CODE_OF_CONDUCT.md",
-    "content/index.md",
     "content/research-related.md",
     "content/me, myself and I.md",
     "README.md",
