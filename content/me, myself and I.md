@@ -4,6 +4,9 @@ draft: false
 tags:
   - cv
 ---
+[![74](Pasted%20image%2020260405181458.png)](https://www.linkedin.com/in/ashub/)   ![62](Pasted%20image%2020260405181539.png)
+
+
 >[!cite]- education
 > **Purdue University, West Lafayette, IN**  
 > *Ph.D. Candidate, Aug. 2022 – Present*  
