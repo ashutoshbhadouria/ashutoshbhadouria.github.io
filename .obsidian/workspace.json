@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -191,18 +191,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae7360a8fc173e6f",
+  "active": "2cf68bc638016d68",
   "lastOpenFiles": [
-    "docs/hosting.md",
+    "content/Battery-Tech.md",
+    "README.md",
     "content/index.md",
+    "docs/hosting.md",
     "docs/index.md",
     "docs/configuration.md",
     "docs/tags/component.md",
     "docs/tags/plugin.md",
     "docs/advanced/creating components.md",
     "docs/advanced/index.md",
-    "content/Battery-Tech.md",
-    "content/README.md",
     "content/Electrocatalysis.md",
     "content/This is new page from obsidian.md",
     "content/homepage.md",
