@@ -194,9 +194,12 @@
   },
   "active": "d872e18d4eca4866",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/linkedin.png",
+    "content/me, myself and I.md",
     "content/Google_Scholar_logo.svg.png",
     "content/research-related.md",
-    "content/me, myself and I.md",
+    "content/linkedin.png.crdownload",
     "content/CatalysisScheme-en.svg",
     "content/images/Google_Scholar_logo.svg.png.crdownload",
     "content/images",
@@ -205,7 +208,6 @@
     "Pasted image 20260405181539.png",
     "Pasted image 20260405181458.png",
     "Untitled.base",
-    "content/index.md",
     "docs/configuration.md",
     "content/Unconfirmed 185617.crdownload",
     "content/simulation.gif.crdownload",
@@ -225,7 +227,6 @@
     "docs/advanced/index.md",
     "tsconfig.json",
     "quartz.layout.ts",
-    "quartz.config.ts",
-    "package-lock.json"
+    "quartz.config.ts"
   ]
 }
