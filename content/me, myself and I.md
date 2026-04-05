@@ -27,7 +27,7 @@ tags:
 **Hutchings High School, Pune, India**  
 *Indian Certificate of Secondary Education (ICSE), 2005-2011*
 
-# [!info]-research experience
+[!info]-research experience
 
 **Purdue University, West Lafayette, IN**  
 *Graduate Research Assistant, Aug. 2022 – Present*  
@@ -69,7 +69,7 @@ tags:
 - Performed absorbance tests using UV-Vis-NIR spectroscopy to study absorption wavelengths of BiVO₄—a semiconductor actively used as a photoanode in photochemical water electrolysis. Studied the effects of atomic layer deposited TiO₂ on degradation and energy efficiency of BiVO₄. 
 - TiO₂ was found to play an important role in delaying degradation of the semiconductor under exposure to light and water while maintaining the energy efficiency of the system.
 
-# [!info]-work experience
+[!info]-work experience
 
 **Tesla, Fremont, CA**  
 *Cell Engineering Technician II, July 2021 – July 2022*  
@@ -102,7 +102,7 @@ tags:
 - Organized and managed water management and rural development events that involved 75+ volunteers
 
 
-# [!info]-awards & honors
+#[!info]-awards & honors
 
 - Teaching Academy Graduate Teaching Award, Purdue University, (2025)
 	- Recognition for graduate students who demonstrate excellence in teaching and a strong dedication to educational practice.
