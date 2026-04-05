@@ -102,7 +102,7 @@ tags:
 > - Developed a MATLAB interactive database for Corporate Social Responsibility (CSR) projects in the state of Maharashtra. 
 > - Organized and managed water management and rural development events that involved 75+ volunteers
 
-> [!bug]- awards & honors
+> [!cite]- awards & honors
 > 
 > - Teaching Academy Graduate Teaching Award, Purdue University, (2025)
 > 	- Recognition for graduate students who demonstrate excellence in teaching and a strong dedication to educational practice.
