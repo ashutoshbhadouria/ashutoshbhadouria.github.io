@@ -4,7 +4,7 @@ draft: false
 tags:
   - cv
 ---
-[!info]-education
+>[!info]- education
 
 **Purdue University, West Lafayette, IN**  
 *Ph.D. Candidate, Aug. 2022 – Present*  
