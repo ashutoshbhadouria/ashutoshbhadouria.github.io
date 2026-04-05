@@ -139,3 +139,76 @@ Intern, May 2018 - July 2018
 - Developed a MATLAB interactive database for Corporate Social Responsibility (CSR) projects in the state of Maharashtra. 
     
 - Organized and managed water management and rural development events that involved 75+ volunteers
+
+
+# awards & honors
+
+- Teaching Academy Graduate Teaching Award, Purdue University, (2025)  
+    Recognition for graduate students who demonstrate excellence in teaching and a strong dedication to educational practice.
+    
+- Estus H. and Vashti L. Magoon Award for Excellence in Teaching, Purdue University, (2024)  
+    The Magoon awards are given to outstanding teaching assistants in memory of Estus H. and Vashti L. Magoon, who have influenced the lives of many engineering educators early in their careers through this award.
+    
+
+• The Leadership Award, University of California, Berkeley, (2020-21)  
+Prestigious one-year merit-based scholarship awarded to select students for innovative, impactful, and initiative-driven leadership in  academic, professional, and community environments.
+
+• Student of the Year, The British International School, Istanbul, Turkey (2016)  
+In physics, theory of knowledge, and economics. Awarded to students who demonstrated exemplary effort and hard work in a particular class in the  academic year.
+
+• Top IGCSE Student, The British International School, Istanbul, (2015)  
+Awarded for the most number of A/A* in grade 10 International General Certificate of Secondary Education (IGCSE) exams.
+
+• Director’s Award, The British International School, Istanbul, (2015)  
+Demonstrated outstanding all-rounder work (academic and extra-curricular) in the academic year
+
+# extra-curriculars
+Purdue Catalysis Center, West Lafayette, IN  
+Website Manager and Archivist, May 2023 - Present
+
+- Led website redesign and modernization, including development of a dedicated “History of Catalysis” page in collaboration with faculty to highlight the center’s origins and legacy.
+    
+
+
+ChE Graduate Student Organization, West Lafayette, IN  
+Sports Director, May 2024 - Present
+
+- Boosted student engagement by 43% by organizing 14+ events, attracting over 135 graduate student participants.
+    
+
+
+AIChE, UC Berkeley Student Chapter, Berkeley, CA  
+President, May 2020 - May 2021
+
+- As 2019-20 Corporate Chair, I reached out to 200+ professionals over 3 months to raise more than $6000 in corporate sponsorships and diversified company clientele while increasing member involvement and overall student turnout at events. In the summer of 2020, I was elected as chapter president to help provide professional, academic, and social opportunities to College of Chemistry undergraduate students while leading a team of 45+ students across 4 committees. 
+    
+
+
+ChemE Car, Berkeley, CA  
+Superiron battery team lead, July 2019 – May 2021
+
+- Spearheaded a team of 5 undergraduates to research K₂FeO₄ as a cost-effective and sustainable replacement for the cathode in the Zn-MnO₂ alkaline battery currently used commercially. Led research talks and meetings to train and guide undergraduate team members. Ultimately developed a working battery prototype with 30% reduced manufacturing costs and 13% higher energy density than a typical alkaline battery. Findings were presented at the AIChE Undergraduate Research Fair at UC Berkeley.
+    
+
+Chec Consulting, Berkeley, CA  
+Internal Vice President, Sept. 2019 – May 2021
+
+- As an analyst in 2018-2019, I worked with clients to model sustainable processes and drafted business plans to enable implementation of designs. Elected as internal vice president in 2019, I worked with startups and mid-size company professionals to develop project proposals and facilitated consulting projects by overseeing student team meetings. Improved communication with the College of Chemistry administration and helped achieve 20% greater member retention via organizing alumni panels and leading professional development workshops focused on LinkedIn and process simulation software (Aspen and COMSOL).
+    
+
+
+Engineers Without Borders, Berkeley, CA  
+Nicaragua Sustainability Lead and Webmaster, Sept. 2018 - Sept. 2020
+
+- Implemented a water distribution system in El Llanito, Nicaragua, to provide potable drinking water to a community of 5000 residents. 
+    
+- Redesigned the EWB website to assist fundraising and increased the EWB UC Berkeley Chapter’s social media reach by 20%.
+    
+
+
+Quantum Computing at Berkeley, Berkeley, CA  
+Officer, Sept. 2018 - Sept. 2019
+
+- Coordinated with leading scientists and researchers in quantum computing to schedule lectures and talks for students. 
+    
+- Assisted in developing study material for independent Quantum Computing student-taught classes
