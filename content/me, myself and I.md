@@ -4,9 +4,16 @@ draft: false
 tags:
   - cv
 ---
-[![Google_Scholar_logo.svg|63](Google_Scholar_logo.svg.png)]([‪Ashutosh Bhadouria‬ - ‪Google Scholar‬](https://scholar.google.com/citations?hl=en&user=XVv7XOMAAAAJ&view_op=list_works&gmla=AETOMgG4oMFMzJ9jL-SwacDi1fJJkWRQ00xEX4iAke3yZ0ZBV7vHIkyLeme95gtJVwMr35CfRE7AvJmxyf_BKfKV))
+<a href="https://scholar.google.com/citations?hl=en&user=XVv7XOMAAAAJ&view_op=list_works&gmla=AETOMgG4oMFMzJ9jL-SwacDi1fJJkWRQ00xEX4iAke3yZ0ZBV7vHIkyLeme95gtJVwMr35CfRE7AvJmxyf_BKfKV">
+  <img src="Google_Scholar_logo.png" width="63">
+</a>
 
-[linkedin](linkedin.png)
+
+<a href="https://www.linkedin.com/in/ashub/">
+  <img src="linkedin.png" width="63">
+</a>
+
+
 
 >[!cite]- education
 > **Purdue University, West Lafayette, IN**  
