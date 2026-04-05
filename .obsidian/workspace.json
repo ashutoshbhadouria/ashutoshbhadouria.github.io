@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "docs/authoring content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "authoring content"
             }
           }
         ]
@@ -194,17 +194,18 @@
   },
   "active": "ae7360a8fc173e6f",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/build.md",
+    "content/index.md",
     "content/blog_opinions.md",
     "content/research-related.md",
     "content/me, myself and I.md",
-    "content/index.md",
     "2026-04-05.md",
     "content/homepage.md",
     "content/This is new page from obsidian.md",
     "content/CODE_OF_CONDUCT.md",
     "README.md",
     "docs/hosting.md",
-    "docs/index.md",
     "docs/configuration.md",
     "docs/tags/component.md",
     "docs/tags/plugin.md",
