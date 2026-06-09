@@ -25,14 +25,17 @@
             "id": "28e40da1666565d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "content/research-related.md",
-                "mode": "source",
-                "source": false
+                "file": "content/canvas.canvas",
+                "viewState": {
+                  "x": -75,
+                  "y": -190,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "research-related"
+              "icon": "lucide-layout-dashboard",
+              "title": "canvas"
             }
           }
         ],
@@ -169,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/research-related.md",
+                "file": "content/canvas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of research-related"
+              "title": "Outline of canvas"
             }
           },
           {
@@ -209,9 +212,12 @@
   },
   "active": "28e40da1666565d3",
   "lastOpenFiles": [
+    "docs/Untitled.base",
+    "content/canvas.canvas",
+    "content/research-related.md",
+    "2026-06-09.md",
     "content/notes on density functional theory.md",
     "content/notes on electrochemical engineering.md",
-    "content/research-related.md",
     "content/PDFs/DFT_697.pdf",
     "content/PDFs/EChem_597.pdf",
     "content/PDFs",
@@ -219,7 +225,6 @@
     "content/index.md",
     "README.md",
     "docs/index.md",
-    "Untitled.base",
     "docs/features/wikilinks.md",
     "Pasted image 20260405181458.png",
     "Pasted image 20260405181539.png",
