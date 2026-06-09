@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"2e1e8f6a8051e9e2","x":-360,"y":-380,"width":250,"height":60,"color":"3","type":"text","text":"test 1"},
-		{"id":"88d55984960ac6ba","x":-200,"y":-220,"width":250,"height":60,"type":"text","text":"test 2"},
-		{"id":"31d312adc521cbcf","x":20,"y":-60,"width":125,"height":125,"type":"file","file":"content/images/linkedin.png"}
+		{"id":"2e1e8f6a8051e9e2","type":"text","text":"test 1","x":-360,"y":-380,"width":250,"height":60,"color":"3"},
+		{"id":"88d55984960ac6ba","type":"text","text":"test 2","x":-200,"y":-220,"width":250,"height":60},
+		{"id":"31d312adc521cbcf","type":"file","file":"content/images/linkedin.png","x":20,"y":-60,"width":125,"height":125}
 	],
 	"edges":[]
 }

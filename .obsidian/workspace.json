@@ -25,17 +25,14 @@
             "id": "28e40da1666565d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "content/canvas.canvas",
-                "viewState": {
-                  "x": -75,
-                  "y": -190,
-                  "zoom": 0
-                }
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "canvas"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -172,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/canvas.canvas",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of canvas"
+              "title": "Outline of index"
             }
           },
           {
@@ -212,8 +209,10 @@
   },
   "active": "28e40da1666565d3",
   "lastOpenFiles": [
-    "docs/Untitled.base",
+    "docs/plugins/FolderPage.md",
+    "Untitled.base",
     "content/canvas.canvas",
+    "docs/Untitled.base",
     "content/research-related.md",
     "2026-06-09.md",
     "content/notes on density functional theory.md",
@@ -242,7 +241,6 @@
     "content/linkedin.png.crdownload",
     "content/images/Google_Scholar_logo.svg.png.crdownload",
     "content/images",
-    "content/New folder",
     "2026-04-05.md",
     "content/homepage.md",
     "content/This is new page from obsidian.md",
