@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/me, myself and I.md",
+                "file": "docs/features/wikilinks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "me, myself and I"
+              "title": "wikilinks"
             }
           }
         ]
@@ -194,12 +194,15 @@
   },
   "active": "772464fe6e2f1135",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Pasted image 20260405181458.png",
+    "Pasted image 20260405181539.png",
+    "content/me, myself and I.md",
     "content/blog_opinions.md",
     "docs/configuration.md",
     "docs/build.md",
     "docs/authoring content.md",
     "docs/index.md",
-    "content/me, myself and I.md",
     "content/images/email.jpg",
     "images/email.jpg.crdownload",
     "content/images/linkedin.png",
@@ -213,9 +216,6 @@
     "content/images/Google_Scholar_logo.svg.png.crdownload",
     "content/images",
     "content/New folder",
-    "Pasted image 20260405181539.png",
-    "Pasted image 20260405181458.png",
-    "Untitled.base",
     "content/Unconfirmed 185617.crdownload",
     "content/simulation.gif.crdownload",
     "2026-04-05.md",
