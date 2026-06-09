@@ -5,15 +5,15 @@ tags:
   - cv
 ---
 <a href="mailto:ashutoshbhadouria@gmail.com">
-  <img src="images/email.jpg" width="43">
+  <img src="./images/email.jpg" width="43">
 </a>
 <a href="https://scholar.google.com/citations?hl=en&user=XVv7XOMAAAAJ&view_op=list_works&gmla=AETOMgG4oMFMzJ9jL-SwacDi1fJJkWRQ00xEX4iAke3yZ0ZBV7vHIkyLeme95gtJVwMr35CfRE7AvJmxyf_BKfKV">
-  <img src="images/Google_Scholar_logo.png" width="43">
+  <img src="./images/Google_Scholar_logo.png" width="43">
 </a>
 
 
 <a href="https://www.linkedin.com/in/ashub/">
-  <img src="images/linkedin.png" width="43">
+  <img src="./images/linkedin.png" width="43">
 </a>
 
 
