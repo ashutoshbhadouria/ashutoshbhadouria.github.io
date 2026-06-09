@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d872e18d4eca4866",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Google_Scholar_logo.png"
-              },
-              "icon": "lucide-image",
-              "title": "Google_Scholar_logo"
-            }
-          },
-          {
-            "id": "1a0b15a9551b7990",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/CatalysisScheme-en.svg"
-              },
-              "icon": "lucide-image",
-              "title": "CatalysisScheme-en"
-            }
-          },
-          {
-            "id": "63e791bed856acf1",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/linkedin.png"
-              },
-              "icon": "lucide-image",
-              "title": "linkedin"
-            }
-          },
-          {
             "id": "772464fe6e2f1135",
             "type": "leaf",
             "state": {
@@ -57,8 +21,7 @@
               "title": "me, myself and I"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,6 +194,8 @@
   },
   "active": "772464fe6e2f1135",
   "lastOpenFiles": [
+    "images/email.jpg",
+    "images/email.jpg.crdownload",
     "images/linkedin.png",
     "images/CatalysisScheme-en.svg",
     "images/Google_Scholar_logo.png",
@@ -263,7 +228,6 @@
     "docs/tags/plugin.md",
     "docs/advanced/creating components.md",
     "docs/advanced/index.md",
-    "tsconfig.json",
-    "quartz.layout.ts"
+    "tsconfig.json"
   ]
 }
