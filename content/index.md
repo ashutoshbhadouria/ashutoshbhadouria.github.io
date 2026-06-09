@@ -10,6 +10,8 @@ hailing from [Rajasthan](https://en.wikipedia.org/wiki/Rajasthan), India, I have
 
 thank you for taking the time to visit this website, and stay tuned for regular (or maybe not-so-regular updates) in the near future...cheers!
 
+> “Sometimes, it's better to bunk a class and enjoy with friends, because now, when I look back, marks never make me laugh, but memories do.” — Dr. A.P.J. Abdul Kalam (Aerospace Engineer and Former President of India)
+
 ***Recent News***
 - **07/13**: PhD Thesis defense planned for July 13, 2026 in FRNY G124 at Purdue University. Attendance is welcome for the public portion of the defense and feel free to email me for the virtual meeting link!
 
