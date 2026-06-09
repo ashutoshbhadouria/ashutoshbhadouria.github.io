@@ -10,6 +10,7 @@ hailing from Rajasthan, India, I have been fortunate enough to travel across the
 
 thank you for taking the time to visit this website, and stay tuned for regular (or maybe not-so-regular updates) in the near future...cheers!
 
+News
 ### Jump to...
 * [cv](me,%20myself%20and%20I.md)
 * [research](research-related.md)
