@@ -39,14 +39,13 @@
             "id": "eb2ac3cf327c4c07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "content/research_pages/notes on electrochemical engineering.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/All Files.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "notes on electrochemical engineering"
+              "icon": "lucide-table",
+              "title": "All Files"
             }
           }
         ],
@@ -183,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/research_pages/notes on electrochemical engineering.md",
+                "file": "docs/All Files.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of notes on electrochemical engineering"
+              "title": "Outline of All Files"
             }
           },
           {
@@ -223,6 +222,9 @@
   },
   "active": "eb2ac3cf327c4c07",
   "lastOpenFiles": [
+    "docs/layout-components.md",
+    "docs/layout.md",
+    "content/research_pages/notes on electrochemical engineering.md",
     "content/research_pages/Notes on density functional theory.md",
     "content/research-related.md",
     "content/me, myself and I.md",
@@ -230,12 +232,11 @@
     "content/canvas.canvas",
     "content/blog_opinions.md",
     "content/PDFs/DFT_697.pdf",
-    "content/research_pages/notes on electrochemical engineering.md",
     "content/research_pages",
     "content/notes on density functional theory.md",
     "docs/plugins/FolderPage.md",
     "Untitled.base",
-    "docs/Untitled.base",
+    "docs/All Files.base",
     "2026-06-09.md",
     "content/PDFs/EChem_597.pdf",
     "content/PDFs",

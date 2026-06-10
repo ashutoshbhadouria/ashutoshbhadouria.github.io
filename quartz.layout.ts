@@ -38,7 +38,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => {
+    // Add the exact names of the folders you want to hide in all lowercase letters
+    const omit = new Set(["research_pages", "pdfs"])
+    return !omit.has(node.displayName.toLowerCase())
+  }
+}),
   ],
   right: [
     Component.Graph(),
