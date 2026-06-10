@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/research-related.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "research-related"
+              "title": "index"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/research-related.md",
+                "file": "content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of research-related"
+              "title": "Outline of index"
             }
           },
           {
@@ -223,12 +223,13 @@
   },
   "active": "eb2ac3cf327c4c07",
   "lastOpenFiles": [
+    "content/PDFs/DFT_697.pdf",
+    "content/research_pages/Notes on density functional theory.md",
+    "content/research_pages/notes on electrochemical engineering.md",
+    "content/research-related.md",
     "content/blog_opinions.md",
     "content/me, myself and I.md",
-    "content/research_pages/Notes on density functional theory.md",
-    "content/research-related.md",
     "content/canvas.canvas",
-    "content/research_pages/notes on electrochemical engineering.md",
     "content/research_pages",
     "content/index.md",
     "content/notes on density functional theory.md",
@@ -236,7 +237,6 @@
     "Untitled.base",
     "docs/Untitled.base",
     "2026-06-09.md",
-    "content/PDFs/DFT_697.pdf",
     "content/PDFs/EChem_597.pdf",
     "content/PDFs",
     "README.md",
