@@ -56,12 +56,7 @@ tags:
 > - Determined orders of magnitude of stability offered by a novel photocatalyst via a study of first-order reaction kinetics.
 > - Constructed MATLAB data analytical models to study efficacy of active ingredients in commercial sunscreens. Findings revealed the lack of photoprotective capability of organic active ingredients extensively used in sunscreens.
 > 
-> **University of California, Berkeley, Berkeley, CA**  
-> *Undergraduate Research Assistant, Jan. 2019 – Dec. 2019*  
-> *Advisor: Prof. Kwabena Bediako*
-> - Synthesized and characterized 2D ferromagnetic materials that have electronic and energy storage applications. 
-> - Materials were synthesized via techniques, such as exfoliation and chemical vapor deposition, and were analyzed by Raman spectroscopy and atomic force microscopy (AFM).
-> 
+ 
 > **Indian Institute of Technology, Mumbai, India**  
 > *Undergraduate Research Intern, June 2018 – Aug. 2018*  
 > *Advisor: Prof. P.S. Panchakarla*
