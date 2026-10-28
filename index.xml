@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>ashutosh bhadouria</title>
+      <link>https://ashutoshbhadouria.github.io</link>
+      <description>Last 10 notes on ashutosh bhadouria</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>opinions/ideas</title>
+    <link>https://ashutoshbhadouria.github.io/blog_opinions</link>
+    <guid>https://ashutoshbhadouria.github.io/blog_opinions</guid>
+    <description><![CDATA[ Blog of Ashutosh Bhadouria: thoughts and ideas on science, grad school and life. ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:09:49 GMT</pubDate>
+  </item><item>
+    <title>Ashutosh Bhadouria</title>
+    <link>https://ashutoshbhadouria.github.io/</link>
+    <guid>https://ashutoshbhadouria.github.io/</guid>
+    <description><![CDATA[ Personal website of Ashutosh (Ashu) Bhadouria, a chemical engineer with a PhD from Purdue University working on electrochemistry and catalysis, and an incoming postdoctoral scholar at Caltech. ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:09:49 GMT</pubDate>
+  </item><item>
+    <title>me, myself and I</title>
+    <link>https://ashutoshbhadouria.github.io/me,-myself-and-I</link>
+    <guid>https://ashutoshbhadouria.github.io/me,-myself-and-I</guid>
+    <description><![CDATA[ CV of Ashutosh Bhadouria: education (Purdue University, UC Berkeley), research and work experience, awards, and contact links (Google Scholar, LinkedIn, email). ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:09:49 GMT</pubDate>
+  </item><item>
+    <title>research</title>
+    <link>https://ashutoshbhadouria.github.io/research-related</link>
+    <guid>https://ashutoshbhadouria.github.io/research-related</guid>
+    <description><![CDATA[ Research of Ashutosh Bhadouria on electrochemistry and catalysis, including electrochemical propane activation on Pt electrodes, plus class notes on chemical engineering, DFT and electrochemical engineering. ]]></description>
+    <pubDate>Tue, 27 Oct 2026 16:09:49 GMT</pubDate>
+  </item><item>
+    <title>Chem 104A Midterm 1 Review</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Chemistry/Chem-104A-Midterm-1-Review</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Chemistry/Chem-104A-Midterm-1-Review</guid>
+    <description><![CDATA[ Chem 104A (inorganic chemistry) review notes — Bohr model and quantum numbers, orbitals and nodes, Slater's rules, VSEPR, Bent's rule and point groups, term symbols, acid–base theory (Brønsted, superacids, inductive/steric effects, Lewis acids, HSAB, Drago–Wayland), group theory and character tables, MO and VB theory, and main-group (hydrogen, boron, boranes, carboranes) chemistry. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item><item>
+    <title>Organic Chemistry pKa Cheat Sheet</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Chemistry/Organic-Chemistry-pKa-Cheat-Sheet</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Chemistry/Organic-Chemistry-pKa-Cheat-Sheet</guid>
+    <description><![CDATA[ Organic chemistry cheat sheet — Henderson–Hasselbalch and a pKa table (mineral acids, oxyacids, nitrogen acids, carbonyl α-hydrogens, bases), inductive effects and acyl reactivity, NMR shift positions, reactions of carbonyls (Grignard, carboxylation, oxidation, amide, ester, acid and imine formation, Wittig, acid chlorides), and the 20 amino acids by side-chain class. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item><item>
+    <title>Chemistry</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Chemistry/</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Chemistry/</guid>
+    <description><![CDATA[ General, inorganic and organic chemistry: atomic structure, bonding, periodic trends, and acids and bases. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item><item>
+    <title>HW 1</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-01-(2)</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-01-(2)</guid>
+    <description><![CDATA[ Revised HW 1 — the same Heun and Adams–Moulton results, plus the full Newton–Raphson Jacobian for the non-linear flat-plate conduction problem, the boundary-condition derivatives, the Thomas-algorithm update loop and the grid-independence plots. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item><item>
+    <title>HW 1</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-01</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-01</guid>
+    <description><![CDATA[ HW 1 — Heun's method (2nd-order Runge–Kutta) for a second-order ODE, the implicit 2nd-order Adams–Moulton (trapezoidal) method solved with Newton–Raphson, and steady conduction in a flat plate with variable conductivity and heat generation set up as a tridiagonal system. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item><item>
+    <title>HW 2</title>
+    <link>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-02</link>
+    <guid>https://ashutoshbhadouria.github.io/Coursework/Computational_and_Data_Methods/AAE_512/AAE_512-HW-02</guid>
+    <description><![CDATA[ HW 2 — classifying PDEs by order and linearity, the inviscid Burgers equation in non-conservative and conservative upwind form with exact characteristic solutions, weak solutions, shock speed and the entropy condition, and classifying second-order PDEs by eigenvalues and canonical form. ]]></description>
+    <pubDate>Mon, 26 Oct 2026 21:41:18 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
